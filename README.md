@@ -10,7 +10,7 @@
    * 🔗 [Man Pages 🗊](https://www.kernel.org/doc/man-pages/)
    * 🔗 [Cyber's Digest 🗊](https://www.cybersdigest.com/)
    * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
-   * 🔼 Update your system packages: run `sudo apt-get update`
+   * 🔼 To Update your local package lists: run `sudo apt-get update`
    
 ## Desirable Skills:
    * ⏳ Positive attitude, growth mindset & patience.
