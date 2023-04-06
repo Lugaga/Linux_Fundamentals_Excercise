@@ -12,10 +12,6 @@
    * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
    * 🔼 To Update your local package lists: run `sudo apt-get update`.
 
-     <span style="color:green">Text content  </span>
-
-       
-<span style="color:blue">some *blue* text</span>
    
 ## Desirable Skills:
    * ⏳ Positive attitude, growth mindset & patience.
