@@ -5,9 +5,9 @@
 ## Prerequisite
    * Positive attitude & growth mindset.
    * Kali Linux running on a VM preferably Virtual Box.
-   * [Ubuntu CLI](https://ubuntu.com/tutorials/command-line-for-beginners)
-   * [Kali Docs](https://www.kali.org/docs/)
-   * [Carbon Code Editor](https://carbon.now.sh/)
+   * 🔗[Ubuntu CLI](https://ubuntu.com/tutorials/command-line-for-beginners)
+   * 🔗[Kali Docs](https://www.kali.org/docs/)
+   * 🔗[Carbon Code Editor](https://carbon.now.sh/)
    * [Man Pages](https://www.kernel.org/doc/man-pages/)
    * [Exercise Files](https://www.kernel.org/doc/man-pages/)
    * https://www.cybersdigest.com/
