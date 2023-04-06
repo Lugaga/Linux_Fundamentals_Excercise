@@ -2,28 +2,33 @@
 
 #### By **Lugaga**
 
-## Prerequisite
-   * Positive attitude & growth mindset.
-   * Kali Linux running on a VM preferably Virtual Box.
-   * 🔗[Ubuntu CLI](https://ubuntu.com/tutorials/command-line-for-beginners)
-   * 🔗[Kali Docs](https://www.kali.org/docs/)
-   * 🔗[Carbon Code Editor](https://carbon.now.sh/)
-   * [Man Pages](https://www.kernel.org/doc/man-pages/)
-   * [Exercise Files](https://www.kernel.org/doc/man-pages/)
-   * https://www.cybersdigest.com/
-   * Download Virtual Box
-   * Download Kali Linux ISO Image File
-   * Update your system packages: sudo apt-get update
+## Prerequisite:
+   * 🔗 Kali Linux running on a VM preferably Virtual Box.💻
+   * 🔗 [Ubuntu CLI](https://ubuntu.com/tutorials/command-line-for-beginners) 🗊 
+   * 🔗 [Kali Docs](https://www.kali.org/docs/) 🗊 
+   * 🔗 [Carbon Code Editor](https://carbon.now.sh/) 🗊 
+   * 🔗 [Man Pages](https://www.kernel.org/doc/man-pages/) 🗊 
+   * 🔗 [Exercise Files](https://www.kernel.org/doc/man-pages/) 🗊 
+   * 🔗 https://www.cybersdigest.com/
+   * 🔗 Download Virtual Box 📦
+   * 🔗 Download Kali Linux ISO Image File 💿
+   * 🔗 Update your system packages: run `sudo apt-get update`
+   
+## Desirable Skills:
+   * ⏳ Positive attitude, growth mindset & patience.
+   * 🦾 Self discipline, dedication, consistency & persistence.
+   * 🤪 Humor, Lots of it. (Good Vibes).
    
    
-## Technologies Used
-   * 📦 Virtual Box
-   * 🐉 Kali Linux
-   * 🗊 Carbon Code Editor
-   * Bash Programming Language
-   * ChatGPT
-   * Google
-
+## Technologies Used:
+   * 📦 Virtual Box, By Oracle.
+   * 🐉 Kali Linux.
+   * 🗊  Carbon Code Editor.
+   * 🖳  Bash Scripting Language.
+   * 🤖 ChatGPT Queries.
+   * 🌐 Internet.
+   
+   
 ## The Course Outline
 
     1.	Course Introduction
