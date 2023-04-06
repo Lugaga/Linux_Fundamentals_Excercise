@@ -66,6 +66,6 @@
 
 ### License and Copyright details
 
-    * [MIT License](LICENSE)
+    * [MIT License](https://github.com/Lugaga/the_Linux_CLI_for_Cyber_Security/blob/main/LICENSE)
     * Copyright (c) 2023 **Lugaga**
     
