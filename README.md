@@ -16,7 +16,7 @@
 ## Desirable Skills:
    * ⏳ Positive attitude, growth mindset & patience.
    * 🦾 Self discipline, dedication, consistency & persistence.
-   * 🤪 Humor, Lots of it. (Good Vibes).
+   * 🤪 Humor.
    
    
 ## Technologies Used:
@@ -66,5 +66,6 @@
 
 ### License and Copyright details
 
-    * The GNU License [GNU]()
+    * [Cyber's Digest 🗊] ()
     * Copyright (c) 2023 **Lugaga**
+    
