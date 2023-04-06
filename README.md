@@ -4,11 +4,11 @@
 
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
-   * 🔗 [Ubuntu CLI 🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
+   * 🔗 [Ubuntu CLI Tutorial Documentation🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
    * 🔗 [Kali Docs 🗊](https://www.kali.org/docs/)
    * 🔗 [Carbon Code Editor 🗊](https://carbon.now.sh/)
    * 🔗 [Man Pages 🗊](https://www.kernel.org/doc/man-pages/)
-   * 🔗 [Cyber's Digest 🗊](https://www.kernel.org/doc/https://www.cybersdigest.com//)
+   * 🔗 [Cyber's Digest 🗊](https://www.cybersdigest.com/)
    * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
    * 🔼 Update your system packages: run `sudo apt-get update`
    
@@ -41,21 +41,21 @@
     9.	Most Common Directories in Linux
     10.	Directory Structure
 
-    11.	Common Linux Commands You Will Use on the Daily
+    11.	Common `Linux` Commands You should be using on the Daily
     12.	Finding Help with Commands
     13.	Interacting with Directories
-    14.	More about the LS Command
+    14.	More about the `ls` Command
 
     15.	File Permissions
-    16.	Changing File Permissions with Chmod
-    17.	Searching for Files Using Find
+    16.	Changing File Permissions with `chmod`
+    17.	Searching for Files Using `find`
 
     18.	Editing Files and Introduction to File Editors
     19.	Deleting, Copying, Renaming, and Moving Files
     20.	Archiving and Compressing Files
 
     21.	Input and Output Redirection
-    22.	Using Grep to Find Patterns
+    22.	Using `grep` to Find Patterns
     23.	Pipes
 
     24.	Intro to Environment Variables
