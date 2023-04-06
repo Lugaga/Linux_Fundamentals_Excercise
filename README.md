@@ -4,14 +4,12 @@
 
 ## Prerequisite:
    * 🔗 Kali Linux running on a VM preferably Virtual Box.💻
-   * 🔗 [Ubuntu CLI](https://ubuntu.com/tutorials/command-line-for-beginners) 🗊 
-   * 🔗 [Kali Docs](https://www.kali.org/docs/) 🗊 
-   * 🔗 [Carbon Code Editor](https://carbon.now.sh/) 🗊 
-   * 🔗 [Man Pages](https://www.kernel.org/doc/man-pages/) 🗊 
-   * 🔗 [Exercise Files](https://www.kernel.org/doc/man-pages/) 🗊 
-   * 🔗 https://www.cybersdigest.com/
-   * 🔗 Download Virtual Box 📦
-   * 🔗 Download Kali Linux ISO Image File 💿
+   * 🔗 [Ubuntu CLI 🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
+   * 🔗 [Kali Docs 🗊](https://www.kali.org/docs/)
+   * 🔗 [Carbon Code Editor 🗊](https://carbon.now.sh/)
+   * 🔗 [Man Pages 🗊](https://www.kernel.org/doc/man-pages/)
+   * 🔗 [Cyber's Digest 🗊](https://www.kernel.org/doc/https://www.cybersdigest.com//)
+   * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
    * 🔗 Update your system packages: run `sudo apt-get update`
    
 ## Desirable Skills:
