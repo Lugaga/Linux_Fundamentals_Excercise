@@ -66,6 +66,6 @@
 
 ### License and Copyright details
 
-    * [Cyber's Digest 🗊] ()
+    * [MIT License](LICENSE)
     * Copyright (c) 2023 **Lugaga**
     
