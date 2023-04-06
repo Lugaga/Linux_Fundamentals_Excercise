@@ -17,9 +17,9 @@
    
    
 ## Technologies Used
-   * Virtual Box
-   * Kali Linux
-   * Carbon Code Editor
+   * 📦 Virtual Box
+   * 🐉 Kali Linux
+   * 🗊 Carbon Code Editor
    * Bash Programming Language
    * ChatGPT
    * Google
