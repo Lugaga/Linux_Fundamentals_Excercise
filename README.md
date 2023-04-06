@@ -13,7 +13,7 @@
    * 🔼 To Update your local package lists: run `sudo apt-get update`.
 
    
-## Desirable Skills:
+## Rules of Engagement[RoE]:
    * ⏳ Positive attitude, growth mindset & patience.
    * 🦾 Self discipline, dedication, consistency & persistence.
    * 🤪 Humor.
