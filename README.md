@@ -3,7 +3,7 @@
 #### By **Lugaga**
 
 ## Prerequisite:
-   * 🔗 Kali Linux running on a VM preferably Virtual Box.💻
+   * 💻 Kali Linux running on a VM preferably Virtual Box.
    * 🔗 [Ubuntu CLI 🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
    * 🔗 [Kali Docs 🗊](https://www.kali.org/docs/)
    * 🔗 [Carbon Code Editor 🗊](https://carbon.now.sh/)
