@@ -1,4 +1,7 @@
-# Introduction to Linux for Cyber Security
+# Introduction to Linux for Cyber Security featuring the Office Casts.
+
+
+![The Office](office_gh.jpg)
 
 #### By **Lugaga**
 
