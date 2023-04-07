@@ -32,7 +32,7 @@
    * 🌐 Internet.
    
    
-## The Course Outline
+## Here is the LineUp!
 
     1.	Course Introduction
     2.	Course Overview
