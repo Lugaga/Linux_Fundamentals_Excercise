@@ -1,5 +1,19 @@
 # Introduction to Linux for Cyber Security featuring the Office Casts.
 
+Here is a few key things to keep in mind when you are following along.
+
+- It’s important to apply what you are learning, use this a momentum to 
+step up your own learning journey for Linux.
+
+- Practice, practice, practice.
+Following along and completing this course is only part of the learning journey. 
+You need to practice in order to retain what you have learned.
+
+- Teach someone else!
+One way you can retain this information is by teaching someone else. 
+It doesn’t matter who it is (It can even be yourself by making a video).
+
+I hope this course can help assist you along your learning journey for cybersecurity
 
 ![The Office](office_gh.jpg)
 
