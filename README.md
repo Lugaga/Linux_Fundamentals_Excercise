@@ -13,7 +13,7 @@ You need to practice in order to retain what you have learned.
 One way you can retain this information is by teaching someone else. 
 It doesn’t matter who it is (It can even be yourself by making a video).
 
-I hope this course can help assist you along your learning journey for cybersecurity
+I wish that this course will be beneficial to you as you advance in your learning journey for cybersecurity.😎
 
 ![The Office](office_gh.jpg)
 
