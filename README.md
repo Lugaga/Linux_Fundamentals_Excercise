@@ -9,6 +9,7 @@
    * 🔗 [Carbon Code Editor 🗊](https://carbon.now.sh/)
    * 🔗 [Man Pages 🗊](https://www.kernel.org/doc/man-pages/)
    * 🔗 [Cyber's Digest 🗊](https://www.cybersdigest.com/)
+   * 🔗 [Vim](https://www.vim.org/)
    * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
    * 🔼 To Update your local package lists: run `sudo apt-get update`.
 
