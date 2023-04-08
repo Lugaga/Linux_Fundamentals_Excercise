@@ -41,6 +41,7 @@ I wish that this exercise will be beneficial to you as you advance in your learn
    * 🐉 Kali Linux.
    * 🗊  Carbon Code Editor.
    * 🖳  Bash Scripting Language.
+   * 🐍 Python Scripting Language.
    * 🤖 ChatGPT Queries.
    * 🌐 Internet.
    * 🤡 Memes.
