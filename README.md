@@ -124,7 +124,7 @@
          - Robert California
          - Nellie Bertram
    
-  We are are tasked to:
+  We are tasked to:
   
         1. create the groups for the above mentioned teams.
         2. Create all the users and add them to their respective groups(teams).
