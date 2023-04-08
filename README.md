@@ -17,8 +17,6 @@ I wish that this exercise will be beneficial to you as you advance in your learn
 
 ![The Office](office_gh.jpg)
 
-#### By **Lugaga**
-
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
    * 🔗 [Ubuntu CLI Tutorial Documentation🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
