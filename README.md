@@ -28,7 +28,8 @@ I wish that this exercise will be beneficial to you as you advance in your learn
    * 🔗 [Cyber's Digest 🗊](https://www.cybersdigest.com/)
    * 🔗 [Vim](https://www.vim.org/)
    * 🔗 [Download Kali Linux ISO Image File 💿](https://www.kali.org/get-kali/)
-   * 🔼 To Update your local package lists: run `sudo apt-get update`.
+   * 🔼 To update all local package lists: run `sudo apt-get update`.
+   * 🔼 To upgrade all package lists: run `sudo apt-get upgrade`.
 
    
 ## Rules of Engagement[RoE]:
@@ -78,9 +79,9 @@ I wish that this exercise will be beneficial to you as you advance in your learn
     22.	Using `grep` to Find Patterns
     23.	Pipes
 
-    23.	Process Control
-    24.	Create and Switching Users
-    25.	Installing Software
+    24.	Process Control
+    25.	Create and Switching Users
+    26.	Installing Software
 
 ### License and Copyright details
 
