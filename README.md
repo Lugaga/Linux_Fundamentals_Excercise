@@ -1,4 +1,4 @@
-# Introduction to Linux for Cyber Security featuring the Office Casts.
+# Demystifying Linux for Cyber Security featuring the Office Cast.
 
 Here is a few key things to keep in mind when you are following along.
 
