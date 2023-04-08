@@ -6,21 +6,21 @@ Here is a few key things to keep in mind when you are following along.
 step up your own learning journey for Linux.
 
 - Practice, practice, practice.
-Following along and completing this course is only part of the learning journey. 
+Following along and completing this exercise is only part of the learning journey. 
 You need to practice on your own in order to retain what you have learned.
 
 - Teach someone else!
 One way you can retain this information is by teaching someone else. 
-It doesn’t matter who it is (It can even be yourself by making a video).
+It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
 
-I wish that this course will be beneficial to you as you advance in your learning journey for cybersecurity.😎
+I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
 
 ![The Office](office_gh.jpg)
 
 #### By **Lugaga**
 
 ## Prerequisite:
-   * 💻 <font color="red">Kali Linux running on a VM preferably Virtual Box.</font>
+   * 💻 Kali Linux running on a VM preferably Virtual Box.
    * 🔗 [Ubuntu CLI Tutorial Documentation🗊](https://ubuntu.com/tutorials/command-line-for-beginners)
    * 🔗 [Kali Docs 🗊](https://www.kali.org/docs/)
    * 🔗 [Carbon Code Editor 🗊](https://carbon.now.sh/)
@@ -78,10 +78,9 @@ I wish that this course will be beneficial to you as you advance in your learnin
     22.	Using `grep` to Find Patterns
     23.	Pipes
 
-    24.	Intro to Environment Variables
-    25.	Process Control
-    26.	Create and Switching Users
-    27.	Installing Software
+    23.	Process Control
+    24.	Create and Switching Users
+    25.	Installing Software
 
 ### License and Copyright details
 
