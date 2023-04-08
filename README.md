@@ -2,12 +2,12 @@
 
 Here is a few key things to keep in mind when you are following along.
 
-- It’s important to apply what you are learning, use this a momentum to 
+- It’s important to apply what you are learning, use this as a momentum to 
 step up your own learning journey for Linux.
 
 - Practice, practice, practice.
 Following along and completing this course is only part of the learning journey. 
-You need to practice in order to retain what you have learned.
+You need to practice on your own in order to retain what you have learned.
 
 - Teach someone else!
 One way you can retain this information is by teaching someone else. 
