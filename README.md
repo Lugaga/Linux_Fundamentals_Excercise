@@ -44,6 +44,7 @@ I wish that this course will be beneficial to you as you advance in your learnin
    * 🖳  Bash Scripting Language.
    * 🤖 ChatGPT Queries.
    * 🌐 Internet.
+   * 🤡 Memes.
    
    
 ## Here is the LineUp!
