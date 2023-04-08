@@ -1,21 +1,20 @@
-# Demystifying Linux for Cyber Security featuring the Office Cast.
+  ## Demystifying Linux for Cyber Security featuring the Office Cast.
 
-Here is a few key things to keep in mind when you are following along.
+    Here is a few key things to keep in mind when you are following along.
 
-- It’s important to apply what you are learning, use this as a momentum to 
-step up your own learning journey for Linux.
+    - It’s important to apply what you are learning, use this as a momentum to step up your own learning journey for Linux.
 
-- Practice, practice, practice.
-Following along and completing this exercise is only part of the learning journey. 
-You need to practice on your own in order to retain what you have learned.
+    - Practice, practice, practice.
+      Following along and completing this exercise is only part of the learning journey. 
+      You need to practice on your own in order to retain what you have learned.
 
-- Teach someone else!
-One way you can retain this information is by teaching someone else. 
-It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
+    - Teach someone else!
+      One way you can retain this information is by teaching someone else. 
+      It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
 
-I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
+    I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
 
-![The Office](office_gh.jpg)
+  ![The Office](office_gh.jpg)
 
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
@@ -31,23 +30,23 @@ I wish that this exercise will be beneficial to you as you advance in your learn
 
    
 ## Rules of Engagement[RoE]:
-   * ⏳ Positive attitude, growth mindset & patience.
-   * 🦾 Self discipline, dedication, consistency & persistence.
-   * 🤪 Humor.
-   
+      ⏳ Positive attitude, growth mindset & patience.
+      🦾 Self discipline, dedication, consistency & persistence.
+      🤪 Humor.
+
    
 ## Technologies Used:
-   * 📦 Virtual Box, By Oracle.
-   * 🐉 Kali Linux.
-   * 🗊  Carbon Code Editor.
-   * 🖳  Bash Scripting Language.
-   * 🐍 Python Scripting Language.
-   * 🤖 ChatGPT Queries.
-   * 🌐 Internet.
-   * 🤡 Memes.
+      📦 Virtual Box, By Oracle.
+      🐉 Kali Linux.
+      🗊  Carbon Code Editor.
+      🖳  Bash Scripting Language.
+      🐍 Python Scripting Language.
+      🤖 ChatGPT Queries.
+      🌐 Internet.
+      🤡 Memes.
    
    
-## Here is the LineUp!
+## Here is the LineUp:)
 
     1.	Course Introduction
     2.	Course Overview
@@ -81,7 +80,62 @@ I wish that this exercise will be beneficial to you as you advance in your learn
     24.	Process Control
     25.	Create and Switching Users
     26.	Installing Software
+    
+## The Story:
 
+     Dunder Mifflin Is a Cyber Security Firm.
+
+     It has :
+     1. Security Analysts
+           - Michael Scott 
+           - Dwight Schrute
+           - Jim Halpert
+           - Pam Beesly
+           - Ryan Howard
+
+     2. Cloud Security Engineers 
+           - Kelly Kapoor
+           - Kevin Malone
+           - Angela Martin
+           - Oscar Martinez
+           - Meredith Palmer
+
+
+     3. Incident Responders
+         - Phyllis Vance
+         - Creed Bratton
+         - Andy Bernard 
+         - Erin Hannon 
+         - Karen Filippelli
+
+
+     4. Digital Forensics Examiners
+         - Toby Flenderson
+         - Stanley Hudson
+         - Kelly Kapoor
+         - Roy Anderson
+         - Jan Levinson
+
+
+     5. Penetration Testers
+         - David Wallace
+         - Gabe Lewis
+         - Holly Flax
+         - Robert California
+         - Nellie Bertram
+   
+  We are are tasked to:
+  
+        1. create the groups for the above mentioned teams.
+        2. Create all the users and add them to their respective groups(teams).
+        3. Confirm (1) & (2).
+        4. Create directories for all the 5 teams.
+        5. Create a name.txt for all the engineers.
+        6. Add bio details to each file name.txt of the engineers.
+        7. Confirm (4) to (6).
+   
+  
+   
 ### License and Copyright details
 
    * [MIT License](https://github.com/Lugaga/the_Linux_CLI_for_Cyber_Security/blob/main/LICENSE)
