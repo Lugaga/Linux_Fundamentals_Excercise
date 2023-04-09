@@ -13,7 +13,7 @@
       It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
 
     I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
-    All the best 🚀!    
+    All the best 🚀
   
 |The Office|The Office|
 |:-:|:-:|
@@ -129,13 +129,15 @@
    
   We are tasked to:
   
-        1. create the groups for the above mentioned teams.
+        1. create the groups for the above mentioned teams. 
         2. Create all the users and add them to their respective groups(teams).
         3. Confirm (1) & (2).
         4. Create directories for all the 5 teams.
         5. Create a name.txt for all the engineers.
         6. Add bio details to each file name.txt of the engineers.
         7. Confirm (4) to (6).
+        
+        After completing task 1 to 7, we hall then use that data to practice a couple of Linux Commands on the CLI. (`cd` `ls` `whoami`)
    
   
    
