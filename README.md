@@ -17,7 +17,7 @@
   
 |The Office|The Office|
 |:-:|:-:|
-|![The Office](office_gh.jpg)|![The Office](office_gh.jpg)|
+|![The Office](office_gh.jpg)|![The Office](./img/the_office_two.jpg)|
 
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
