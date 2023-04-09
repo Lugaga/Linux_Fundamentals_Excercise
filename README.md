@@ -15,7 +15,7 @@
     I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
     All the best 🚀
   
-|The Office|The Office|
+|   |   |
 |:-:|:-:|
 |![The Office](office_gh.jpg)|![The Office](./img/the_office_two.jpg)|
 
