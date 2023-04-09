@@ -137,7 +137,7 @@
         6. Add bio details to each file name.txt of the engineers.
         7. Confirm (4) to (6).
         
-        After completing task 1 to 7, we hall then use that data to practice a couple of Linux Commands on the CLI.
+        After completing task 1 to 7, we shall then use that data to practice a couple of Linux Commands on the CLI.
    
   
    
