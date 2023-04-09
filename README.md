@@ -15,7 +15,7 @@
     I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
     All the best 🚀!
 
-  ![The Office](office_gh.jpg)![The Office](office_gh.jpg)
+  |![The Office](office_gh.jpg)|![The Office](office_gh.jpg)
 
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
