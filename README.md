@@ -13,10 +13,11 @@
       It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
 
     I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
-    All the best 🚀!
-    
-  |:-:|:-:|
-  |![The Office](office_gh.jpg)|![The Office](office_gh.jpg)|
+    All the best 🚀!    
+  
+|The Office|The Office|
+|:-:|:-:|
+|![The Office](office_gh.jpg)|![The Office](office_gh.jpg)|
 
 ## Prerequisite:
    * 💻 Kali Linux running on a VM preferably Virtual Box.
