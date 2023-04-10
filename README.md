@@ -44,7 +44,8 @@
       🗊  Carbon Code Editor.
       🖳  Bash Scripting Language.
       🐍 Python Scripting Language.
-      🤖 ChatGPT Queries.
+      🖳  Bringing AI to the Command Line.
+      🤖 ChatGPT AI Queries.
       🌐 Internet.
       🤡 Memes.
    
@@ -138,6 +139,9 @@
         7. Confirm (4) to (6).
         
         After completing task 1 to 7, we shall then use that data to practice a couple of Linux Commands on the CLI.
+        
+        Finally: Ral progress takes time and effort, you have to draw from a deep well of patience and focus on the 
+        process rather than the outcome. This way you can stay motivated and persistent, no matter how long it takes.
    
   
    
