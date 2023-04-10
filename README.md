@@ -2,17 +2,19 @@
 
     Here is a few key things to keep in mind when you are following along.
 
-    - It’s important to apply what you are learning, use this as a momentum to step up your own learning journey for Linux.
+    - It’s important to apply what we are learning here, Let's use this as a momentum to step up our 
+      own learning journey for Linux.
 
     - Practice, practice, practice.
       Following along and completing this exercise is only part of the learning journey. 
-      You need to practice on your own in order to retain what you have learned.
+      We need to practice on our own in order to retain what we have learnt.
 
     - Teach someone else!
-      One way you can retain this information is by teaching someone else. 
-      It doesn’t matter who it is (It can even be yourself by making a video). --> Just like Flipgrid but now practicals.
+      One way we can retain this information is by teaching someone else. 
+      It doesn’t matter who it is (It can even be ourselves by making a video). --> Just like Flipgrid 
+      but now practicals.
 
-    I wish that this exercise will be beneficial to you as you advance in your learning journey for cybersecurity.😎
+    I wish that this exercise will be beneficial to us as we quest for more knowledge in cybersecurity.😎
     All the best 🚀
   
 |   |   |
