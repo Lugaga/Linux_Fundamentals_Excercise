@@ -39,7 +39,7 @@
 ## Technologies Used:
       📦 Virtual Box, By Oracle.
       🐉 Kali Linux.
-      🗊  Carbon Code Editor.
+      🗊  GitHub.
       🖳  Bash Scripting Language.
       🐍 Python Scripting Language.
       🖳  Bringing AI to the Command Line.
