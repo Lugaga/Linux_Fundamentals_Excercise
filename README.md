@@ -59,10 +59,10 @@
     5.	Installing and Mounting Kali Linux to VM
 
     6.	How to Full Screen VM in VirtualBox (Host+F), Host=Right_CTRL_Key.
-    7.	Download Exercise Files
-    8.	How to Open the Terminal
-    9.	Most Common Directories in Linux
-    10.	Directory Structure
+    7.	How to Open the Terminal
+    8.	Most Common Directories in Linux
+    9.	Directory Structure
+    10.	Let's do the exercise.
 
     11.	Common `Linux` Commands You should be using on the Daily
     12.	Finding Help with Commands
