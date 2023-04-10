@@ -1,6 +1,6 @@
   ## Demystifying Linux for Cyber Security, featuring the Office Cast.
 
-    Here is a few key things to keep in mind when you are following along.
+    Here is a few key things to keep in mind when we are following along.
 
     - It’s important to apply what we are learning here, Let's use this as a momentum to step up our 
       own learning journey for Linux.
@@ -14,8 +14,8 @@
       It doesn’t matter who it is (It can even be ourselves by making a video). --> Just like Flipgrid 
       but now practicals.
 
-    I wish that this exercise will be beneficial to us as we quest for more knowledge in cybersecurity.😎
-    All the best 🚀
+    I wish that this exercise will be beneficial to us, as we quest for more knowledge in cybersecurity.😎
+
   
 |   |   |
 |:-:|:-:|
